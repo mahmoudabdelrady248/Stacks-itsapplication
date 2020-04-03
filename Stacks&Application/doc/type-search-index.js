@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"eg.edu.csd.datastructure.stack","l":"HandlingNegativeSign"}]
